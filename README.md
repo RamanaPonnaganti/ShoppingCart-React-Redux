@@ -15,3 +15,5 @@ Npm Start : $npm start
 Load application with 3000
 
 http://localhost:3000/
+
+NOTE:Please use UserName and Password as admin/admin in LOGIN Page
